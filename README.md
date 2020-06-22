@@ -1,2 +1,2 @@
-# guestbook-react
-Guetbook Apps React PostgreSQL Express
+# guestbook-react-back
+Guetbook Apps PostgreSQL Express
